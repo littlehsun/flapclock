@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Flapclock
+Comment=翻頁時鐘桌面小工具
+Exec=@BIN@
+Icon=preferences-desktop-screensaver
+Terminal=false
+Categories=Utility;Clock;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true

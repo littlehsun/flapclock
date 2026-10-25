@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Flapclock 螢幕保護程式
+Comment=全螢幕翻頁時鐘
+Exec=@BIN@ --screensaver
+Icon=preferences-desktop-screensaver
+Terminal=false
+Categories=Utility;Screensaver;
+StartupNotify=false
+StartupWMClass=flapclock
